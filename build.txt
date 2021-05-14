@@ -1,0 +1,15 @@
+This will be tested on windows and linux as I have access to both.
+
+Requirements:
+
+1. Java 1.8.0+
+2. Console of some sort
+
+To build this code:
+
+./gradlew clean build
+
+To run it (after compiling):
+
+//todo get jar output path and set run command
+

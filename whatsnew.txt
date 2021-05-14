@@ -1,0 +1,4 @@
+Armitage Changelog
+==================
+
+Removing all code from this branch in preperation to rewrite system
